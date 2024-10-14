@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+numpy
+etcd3
+minio
+pulsar-client
